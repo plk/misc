@@ -1,0 +1,28 @@
+! name: No mainstream
+! description: Discard superficial, infantile, ignorant and propaganda sites
+! public: false
+! author: KLP
+
+$discard,site=reddit.com
+$discard,site=msnbc.com
+$discard,site=npr.org
+$discard,site=cnn.com
+$discard,site=fox.com
+$discard,site=nbcnews.com
+$discard,site=abcactionnews.com
+$discard,site=abcnews.go.com
+$discard,site=abcnews.com
+$discard,site=theguardian.com
+$discard,site=theguardian.co.uk
+$discard,site=nytimes.com
+$discard,site=politico.com
+$discard,site=pbs.org
+$discard,site=news.yahoo.com
+$discard,site=yahoo.com
+$discard,site=msn.com
+$discard,site=reuters.com
+$discard,site=thedailybeast.com
+$discard,site=wsj.com
+
+
+
