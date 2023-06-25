@@ -7,12 +7,19 @@ $discard,site=reddit.com
 $discard,site=msnbc.com
 $discard,site=npr.org
 $discard,site=cnn.com
-$discard,site=fox.com
+$discard,site=rollingstone.com
+$discard,site=cbsnews.com
+$discard,site=foxnews.com
 $discard,site=nbcnews.com
 $discard,site=abcactionnews.com
 $discard,site=abcnews.go.com
 $discard,site=abcnews.com
+$discard,site=cnbc.com
 $discard,site=theguardian.com
+$discard,site=apnews.com
+$discard,site=huffpost.com
+$discard,site=newyorker.com
+$discard,site=whitehouse.gov
 $discard,site=theguardian.co.uk
 $discard,site=nytimes.com
 $discard,site=politico.com
@@ -23,6 +30,11 @@ $discard,site=msn.com
 $discard,site=reuters.com
 $discard,site=thedailybeast.com
 $discard,site=wsj.com
+$discard,site=bbc.com
+$discard,site=bbc.co.uk
+$discard,site=indepdendent.co.uk
+$discard,site=dailymail.co.uk
+$discard,site=instagram.com
 
 
 
