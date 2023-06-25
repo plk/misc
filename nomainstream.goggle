@@ -3,6 +3,8 @@
 ! public: false
 ! author: KLP
 
+! quickstart guide is here: https://github.com/brave/goggles-quickstart/blob/main/getting-started.md#creating-a-goggle
+
 $discard,site=reddit.com
 $discard,site=msnbc.com
 $discard,site=npr.org
